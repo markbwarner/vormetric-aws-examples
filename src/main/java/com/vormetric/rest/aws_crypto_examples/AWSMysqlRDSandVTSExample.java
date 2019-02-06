@@ -1,3 +1,4 @@
+package com.vormetric.rest.aws_crypto_examples;
 
 
 import java.sql.Connection;
@@ -5,8 +6,8 @@ import java.sql.PreparedStatement;
 import java.util.Calendar;
 import java.util.Date;
 
-import com.vormetric.rest.sample.VormetricCryptoServerHelper;
-import com.vormetric.rest.sample.VormetricCryptoServerSettings;
+import com.vormetric.rest.helperclasses.VormetricCryptoServerHelper;
+import com.vormetric.rest.helperclasses.VormetricCryptoServerSettings;
 
 public class AWSMysqlRDSandVTSExample {
 	

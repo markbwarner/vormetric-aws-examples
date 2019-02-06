@@ -1,10 +1,11 @@
+package com.vormetric.rest.aws_crypto_examples;
 
 import java.util.*;
 import com.amazonaws.services.dynamodbv2.*;
 import com.amazonaws.services.dynamodbv2.model.AttributeValue;
 
-import com.vormetric.rest.sample.VormetricCryptoServerHelper;
-import com.vormetric.rest.sample.VormetricCryptoServerSettings;
+import com.vormetric.rest.helperclasses.VormetricCryptoServerHelper;
+import com.vormetric.rest.helperclasses.VormetricCryptoServerSettings;
 
 public class AWSDynoDBAndVTS {
 
